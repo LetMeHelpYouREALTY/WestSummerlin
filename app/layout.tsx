@@ -21,7 +21,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         </header>
         <main className="container">{children}</main>
         <footer className="site">
-          <div className="container">© {new Date().getFullYear()} West Summerlin · Las Vegas, NV</div>
+          <div className="container">© {new Date().getFullYear()} West Summerlin · Las Vegas, NV · Berkshire Hathaway HomeServices Nevada Properties since September 2008 · License S.0197614.LLC</div>
         </footer>
       </body>
     </html>
